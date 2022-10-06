@@ -7,6 +7,6 @@ Ik heb dit volgens het stappenplan gedaan alleen kwam ik er al snel achter dat d
 Het zwarte draadje (waar GND bij staat) heb ik op het board bij een pin GND gedaan. Het rode draadje (+5v) bij 3v3 pin en de gele draad (Din) bij D5 op het board. In de code heb ik de pin verandert van 6 naar 5, aangezien ik het draadje geconnect heb bij D5 en de led-count naar de hoeveel LED's op de strip. Helaas werkte dit niet. <br>
 
 
-###Bronnen: <br>
+######Bronnen: <br>
 Foto plant:
 https://www.ecopots.eu/?utm_source=social+media+&utm_medium=pinterest&utm_campaign=UGC+Pinterest+Board+October
