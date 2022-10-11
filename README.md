@@ -14,7 +14,7 @@ Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan G
 
 <img src="/Images/D5-fout.png" width="70%"> 
 
-<video src="/Images/ToDo1_NoorMeijns.mov">
+<video src="/Images/ToDo1_NoorMeijns.mp4">
 
 ## Bronnen: <br>
 Foto plant:
