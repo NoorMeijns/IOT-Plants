@@ -1,4 +1,4 @@
-# IOT-plants
+# Arduino Noor Meijns
 
 ## Aansluiten <br>
 Als eerste stap moesten we de arduino IDE, USB driver en NodeMCU installeren en de board-settings instellen.
