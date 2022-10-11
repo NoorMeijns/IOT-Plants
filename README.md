@@ -17,6 +17,6 @@ Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan G
 
 
 
-##Bronnen: <br>
+## Bronnen: <br>
 Foto plant:
 https://www.ecopots.eu/?utm_source=social+media+&utm_medium=pinterest&utm_campaign=UGC+Pinterest+Board+October
