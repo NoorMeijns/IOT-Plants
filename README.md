@@ -17,8 +17,7 @@ Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan G
 ## Telegram
 
 Voor woensdag 12 oktober moesten we Telegram gebruiken om onze LEDs mee aan te sturen. Ik heb op Google deze website gevonden: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/ <br>
-Die heel goed beschrijft welke code je nodig hebt en hoe het werkt. <br>
-Zelf merkte ik dat ik het soms nog wat verwarrend vond en dacht ik dat ik bij de "const int ledPin = 2;" zelf nog de D5 moest invullen. Achteraf gezien hoefte dat helemaal niet, want ik was in de war met de LED-strip. Die zit aangesloten op D5, maar het ging om het lampje op het board.
+Deze website beschrijft heel goed welke code je nodig hebt en hoe het werkt. Zelf merkte ik dat ik het soms nog wat verwarrend vond en dacht ik dat ik bij de "const int ledPin = 2;" zelf nog de D5 moest invullen. Achteraf gezien hoefte dat helemaal niet, want ik was in de war met de LED-strip. Die zit aangesloten op D5, maar het ging om het lampje op het board.
 
 <img src="/Images/">
 
