@@ -12,17 +12,11 @@ Vandaar dat ik alles verwijdert had en opnieuw gedownload heb. Vervolgens weer a
 
 Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan Gloria gevraagd of ik even met haar LED-strip het mocht proberen om te kijken of mijn LED-strip stuk was of dat het aan mijn skills lag. Al snel kwam ik erachter dat het wel aan mijn skills lag en niet aan de LED-strip. Ik had een kleine, maar belangrijke fout gemaakt. Ik was vergeten om een D voor de 5 neer te zetten bij DATA_PIN. Waardoor hij niet weet met welke pin de LED-strip verbonden is. Na het aangepast te hebben, deed de LED-strip het wel. 
 
-<Video LED-strip> / <Foto 5 ipv D5>
-<img src="/Images/D5-fout.png">
-
-          
+<img src="/Images/D5-fout.png"> 
 <video controls width="250">
 
     <source src="/Images/ToDo1_NoorMeijns.mov"
             type="video/mov">
-
-
-
 
 ## Bronnen: <br>
 Foto plant:
