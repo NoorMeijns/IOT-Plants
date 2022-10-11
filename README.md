@@ -14,6 +14,8 @@ Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan G
 
 <img src="/Images/D5-fout.png" width="70%"> 
 
+<video src="/Images/ToDo1_NoorMeijns.mov">
+
 ## Bronnen: <br>
 Foto plant:
 https://www.ecopots.eu/?utm_source=social+media+&utm_medium=pinterest&utm_campaign=UGC+Pinterest+Board+October
