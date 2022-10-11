@@ -15,7 +15,13 @@ Vervolgens lukte het mij ook niet om de LED strip te laten branden. Ik had aan G
 <Video LED-strip> / <Foto 5 ipv D5>
 <img src="Images/D5-fout.png">
 
-<img src="Images/ToDo1_NoorMeijns.mov>
+          
+<video controls width="250">
+
+    <source src="/Images/ToDo1_NoorMeijns.mov"
+            type="video/mov">
+
+
 
 
 ## Bronnen: <br>
